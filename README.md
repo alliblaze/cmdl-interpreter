@@ -1,7 +1,7 @@
 # cmdl-interpreter
 a small cmdl interpreter that i think is pretty cool
 
-Here is a clean, simple, text-only breakdown of all commands your language currently supports:
+To use, make a file using the .cmdl extension in the same folder as the cmdl interpreter, open cmd in that folder, and do the command "python cmdl_interpreter.py yourfilename.cmdl" and your file will run inside the console.
 
 ---
 
