@@ -108,4 +108,4 @@ Waits for the user to press Enter before continuing.
 
 ---
 
-If you want, I can also write a full official documentation page for your language.
+# That's it for now, im going to try to make a 2d code thing or game engine next.
