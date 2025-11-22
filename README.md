@@ -108,4 +108,20 @@ Waits for the user to press Enter before continuing.
 
 ---
 
+## UPDATE! INPUT FUNCTION ADDED
+
+input varname:
+
+Reads any text from the user and stores it in the variable.
+
+input_number varname:
+
+Reads user input, converts to a number (int or float), and stores it.
+
+Includes:
+Automatic string→number conversion
+Re-prompts until valid number is entered for input_number
+Works with all the existing syntax (labels, goto, loops, conditions, math, etc.)
+No other features were changed.
+
 # That's it for now, im going to try to make a 2d code thing or game engine next.
